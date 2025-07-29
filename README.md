@@ -2,11 +2,11 @@
 <h3 align="center">Backend Engineer • Palakkad, Kerala</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1DC2FF&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+Django+%7C+DRF+%7C+FastAPI+%7C+React;DevOps+Enthusiast+%7C+Docker+%7C+GCP+%7C+CI%2FCD;Mentor+%7C+Team+Player+%7C+MCP+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1DC2FF&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+Django+%7C+DRF+%7C+FastAPI+%7C+React;DevOps+Enthusiast+%7C+Docker+%7C+GCP+%7C+CI%2FCD;Mentor+%7C+Team+Player" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square"></a>
+  <a href="https://linkedin.com/in/anasyounus"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square"></a>
   <a href="https://github.com/getwithanas"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square"></a>
   <a href="mailto:anasyounus36@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square"></a>
 </p>
