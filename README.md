@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer • Palakkad, Kerala</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1DC2FF&center=true&vCenter=true&width=435&lines=Django+%7C+DRF+%7C+FastAPI+%7C+React;DevOps+Enthusiast+%7C+Docker+%7C+GCP+%7C+CI%2FCD;Mentor+%7C+Team+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1DC2FF&center=true&vCenter=true&width=435&lines=Django+%7C+DRF+%7C+FastAPI+%7C+React;DevOps%7C+Docker+%7C+GCP+%7C+CI%2FCD;Mentor+%7C+Team+Player" alt="Typing SVG" />
 </p>
 
 <p align="center">
