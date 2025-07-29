@@ -47,10 +47,14 @@ _Feyn Labs, IPCS Global | Aug 2023 – Apr 2024_
 
 ## 🌱 Projects
 
-- **Krishisat:** Smart farming platform with multilingual backend, GCP deployment, Earth Engine & weather API integrations.  
-- **CAAX:** Hydroponics monitoring app (React + Django + FastAPI) with real-time WebSockets.  
-- **Lensfed Palakkad:** Ad management and bookkeeping backend with advanced reporting and CI/CD.
+- **Agrimonitoring App**  
+  Smart farming platform with multilingual backend, GCP deployment, Earth Engine, and weather API integrations.
 
+- **IoT Monitoring System**  
+  Hydroponics monitoring app (React + Django + FastAPI) with real-time WebSocket support.
+
+- **Bookkeeping App**  
+  Ad management and bookkeeping backend featuring advanced reporting and CI/CD pipelines.
 ---
 
 ## 🎓 Education
