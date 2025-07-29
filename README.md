@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anas Y</h1>
-<h3 align="center">Backend Engineer • Palakkad, Kerala</h3>
+<h1 align="center" style="font-family:Poppins, sans-serif;">Hi 👋, I'm Anas Y</h1>
+<h3 align="center" style="font-family:Poppins, sans-serif;">Backend Engineer • Palakkad, Kerala</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1DC2FF&center=true&vCenter=true&width=435&lines=Django+%7C+DRF+%7C+FastAPI+%7C+React;DevOps%7C+Docker+%7C+GCP+%7C+CI%2FCD;Mentor+%7C+Team+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=1DC2FF&center=true&vCenter=true&width=435&lines=Django+%7C+DRF+%7C+FastAPI+%7C+React;DevOps%7C+Docker+%7C+GCP+%7C+CI%2FCD;Mentor+%7C+Team+Player" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,8 +47,8 @@ _Feyn Labs, IPCS Global | Aug 2023 – Apr 2024_
 
 ## 🌱 Projects
 
-- **Krishisat:** Smart farming platform with multilingual backend, GCP deployment, Earth Engine & weather API integrations.
-- **CAAX:** Hydroponics monitoring app (React + Django + FastAPI) with real-time WebSockets.
+- **Krishisat:** Smart farming platform with multilingual backend, GCP deployment, Earth Engine & weather API integrations.  
+- **CAAX:** Hydroponics monitoring app (React + Django + FastAPI) with real-time WebSockets.  
 - **Lensfed Palakkad:** Ad management and bookkeeping backend with advanced reporting and CI/CD.
 
 ---
@@ -63,7 +63,7 @@ _University of Calicut (2020–2023)_
 ## 🏅 Certifications
 
 - Google Cloud Bootcamps  
-- Advanced Django REST Framework (Udemy)  
+- Advanced Django REST Framework (Udemy)
 
 ---
 
