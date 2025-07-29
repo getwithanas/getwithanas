@@ -47,13 +47,13 @@ _Feyn Labs, IPCS Global | Aug 2023 – Apr 2024_
 
 ## 🌱 Projects
 
-- **Agrimonitoring App**  
+- **Smart Farming Platform**  
   Smart farming platform with multilingual backend, GCP deployment, Earth Engine, and weather API integrations.
 
-- **IoT Monitoring System**  
+- **Web Application for Hydroponics Monitoring**  
   Hydroponics monitoring app (React + Django + FastAPI) with real-time WebSocket support.
 
-- **Bookkeeping App**  
+- **Ad Management \& Bookkeeping System**  
   Ad management and bookkeeping backend featuring advanced reporting and CI/CD pipelines.
 ---
 
