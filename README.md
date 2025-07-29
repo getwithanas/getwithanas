@@ -64,7 +64,6 @@ _University of Calicut (2020–2023)_
 
 - Google Cloud Bootcamps  
 - Advanced Django REST Framework (Udemy)  
-- Microsoft Certified Professional (MCP)
 
 ---
 
