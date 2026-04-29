@@ -38,11 +38,6 @@ _X Boson AI | Aug 2024 – Present_
 - Led infrastructure and monitoring with best DevOps practices  
 - Mentored junior engineers & improved team workflows  
 
-**Data Science & ML Intern**  
-_Feyn Labs, IPCS Global | Aug 2023 – Apr 2024_  
-- Built ML mini-projects using regression, clustering, and classification  
-- End-to-end model lifecycle: preprocessing, training, deployment  
-
 ---
 
 ## 🌱 Projects
