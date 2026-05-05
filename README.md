@@ -21,8 +21,8 @@ I'm a backend engineer passionate about building scalable, robust systems and de
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, SQL
-**Frameworks:** Node.js, React, Django, DRF, FastAPI
+**Languages:** Python, JavaScript, SQL \n
+**Frameworks:** Node.js, React, Django, DRF, FastAPI \n
 **DevOps:** Docker, GitHub Actions, GCP, CI/CD
 **Protocols & Systems:** MQTT, Real-time Systems, REST APIs
 **AI Tools:** Claude, MCP, AI-assisted development, Stitch AI
