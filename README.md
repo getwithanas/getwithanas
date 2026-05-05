@@ -30,6 +30,15 @@ I'm a backend engineer passionate about building scalable, robust systems and de
 
 ## 💼 Work Experience
 
+**Software Engineer**
+_Tranquility IoT & Big Data Solutions | Jan 2026 – Present | Kerala, India_
+
+- Building and shipping full-stack product features using Node.js and React in a product-driven environment
+- Designing scalable RESTful APIs and backend services, focusing on performance and reliability
+- Developing responsive, component-based React UIs integrated with real-time IoT data streams
+- Collaborating cross-functionally to deliver end-to-end features across the product lifecycle
+- Working with IoT infrastructure and big data pipelines to support high-volume, data-intensive systems
+
 **Backend Engineer**  
 _X Boson AI | Aug 2024 – Present_  
 - Built RESTful APIs with Django REST Framework  
@@ -38,18 +47,6 @@ _X Boson AI | Aug 2024 – Present_
 - Led infrastructure and monitoring with best DevOps practices  
 - Mentored junior engineers & improved team workflows  
 
----
-
-## 🌱 Projects
-
-- **Smart Farming Platform**  
-  Smart farming platform with multilingual backend, GCP deployment, Earth Engine, and weather API integrations.
-
-- **Web Application for Hydroponics Monitoring**  
-  Hydroponics monitoring app (React + Django + FastAPI) with real-time WebSocket support.
-
-- **Ad Management \& Bookkeeping System**  
-  Ad management and bookkeeping backend featuring advanced reporting and CI/CD pipelines.
 ---
 
 ## 🎓 Education
