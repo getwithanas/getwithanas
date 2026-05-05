@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a backend engineer passionate about building scalable, robust systems and delivering impactful solutions. I thrive in fast-paced environments, love automating workflows, and enjoy mentoring others.
+Software engineer building scalable backend and full-stack systems with Node.js, React, and Python. Experienced in real-time IoT, cloud infrastructure, and performance optimization, with a focus on reliable, production-ready systems.
 
 ---
 
